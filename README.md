@@ -20,6 +20,6 @@ Pada instruksi di bawah ini, anda akan mendapatkan salinan program dan menjalank
 * [Codeigniter versi 3.1.11](https://codeigniter.com/) - Sebagai Framework PHP.
 * [AdminLTE versi 3](https://adminlte.io) - Sebagai Template Frontend.
 
-# Author
+# Kontributor
 * Afiah Solihah - Konseptor
 * [Gilang Pratama Priadi](https://blog.kodepanda.id/) - Penulis Script.
