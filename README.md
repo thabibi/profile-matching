@@ -23,6 +23,3 @@ Pada instruksi di bawah ini, anda akan mendapatkan salinan program dan menjalank
 # Author
 * Afiah Solihah - Konseptor
 * [Gilang Pratama Priadi](https://blog.kodepanda.id/) - Penulis Script.
-
-# License
-Proyek ini berlisensi [MIT](https://opensource.org/licenses/MIT)
