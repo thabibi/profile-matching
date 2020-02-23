@@ -17,7 +17,7 @@ Pada instruksi di bawah ini, anda akan mendapatkan salinan program dan menjalank
 4. Jalankan program pada browser anda dengan alamat `http://localhost/profile-matching/` atau `http://<ip_address>/profile-matching`.
 
 # Di Bangun Menggunakan
-* [Codeigniter versi 3.1.1](https://codeigniter.com/) - Sebagai Framework PHP.
+* [Codeigniter versi 3.1.11](https://codeigniter.com/) - Sebagai Framework PHP.
 * [AdminLTE versi 3](https://adminlte.io) - Sebagai Template Frontend.
 
 # Author
