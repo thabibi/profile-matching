@@ -23,5 +23,4 @@ Pada instruksi di bawah ini, anda akan mendapatkan salinan program dan menjalank
 # Kontributor
 * Afiah Solihah - Konseptor
 * [Gilang Pratama Priadi](https://blog.kodepanda.id/) - Penulis Script.
-
-*thabibi
+* thabibi
